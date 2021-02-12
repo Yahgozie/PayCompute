@@ -1,0 +1,8 @@
+Challenges
+1)Program was not editing properly
+2)Solved it by including the property fullname from the createviewmodel into the editviewmodel and then i edited my post edit action method by calling the fullname.
+2)Registering the Interfaces
+3)Login and Register stopped functioning until i added services.mvc() and services.adddefaultUi();
+4)Seeding of database
+5)Scaffolding using identity
+6)Payslip[Get] unable to printslip so i placed in the code AllowAnonymous

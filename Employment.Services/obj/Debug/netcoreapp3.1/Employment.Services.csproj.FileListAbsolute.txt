@@ -1,0 +1,28 @@
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.deps.json
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.dll
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.pdb
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Persistence.dll
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Entity.pdb
+C:\Users\HP-USER\source\repos\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Persistence.pdb
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csprojAssemblyReference.cache
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.AssemblyInfoInputs.cache
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.AssemblyInfo.cs
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csproj.CopyComplete
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.dll
+C:\Users\HP-USER\source\repos\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.pdb
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.deps.json
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Services.pdb
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Persistence.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Entity.pdb
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\bin\Debug\netcoreapp3.1\Employment.Persistence.pdb
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csprojAssemblyReference.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.AssemblyInfoInputs.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.AssemblyInfo.cs
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csproj.CoreCompileInputs.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.csproj.CopyComplete
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Services\obj\Debug\netcoreapp3.1\Employment.Services.pdb

@@ -1,0 +1,18 @@
+C:\Users\HP-USER\source\repos\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.deps.json
+C:\Users\HP-USER\source\repos\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\source\repos\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.pdb
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.AssemblyInfoInputs.cache
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.AssemblyInfo.cs
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.pdb
+C:\Users\HP-USER\source\repos\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.csprojAssemblyReference.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.deps.json
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\bin\Debug\netcoreapp3.1\Employment.Entity.pdb
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.csprojAssemblyReference.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.AssemblyInfoInputs.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.AssemblyInfo.cs
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.csproj.CoreCompileInputs.cache
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.dll
+C:\Users\HP-USER\Pictures\Cv\Work Projects\PayComputeVideo\Employment.Entity\obj\Debug\netcoreapp3.1\Employment.Entity.pdb

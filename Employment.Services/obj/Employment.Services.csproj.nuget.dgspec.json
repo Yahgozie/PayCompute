@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Services\\Employment.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj",
+        "projectName": "Employment.Entity",
+        "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj",
+        "packagesPath": "C:\\Users\\HP-USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP-USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\Employment.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\Employment.Persistence.csproj",
+        "projectName": "Employment.Persistence",
+        "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\Employment.Persistence.csproj",
+        "packagesPath": "C:\\Users\\HP-USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP-USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj": {
+                "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Services\\Employment.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Services\\Employment.Services.csproj",
+        "projectName": "Employment.Services",
+        "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Services\\Employment.Services.csproj",
+        "packagesPath": "C:\\Users\\HP-USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP-USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj": {
+                "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Entity\\Employment.Entity.csproj"
+              },
+              "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\Employment.Persistence.csproj": {
+                "projectPath": "C:\\Users\\HP-USER\\Pictures\\Cv\\Work Projects\\PayComputeVideo\\Employment.Persistence\\Employment.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
